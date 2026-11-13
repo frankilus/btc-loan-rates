@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "date": "2026-11-13",
+      "lenderId": "salt",
+      "type": "baseline",
+      "summary": "Baseline: 7.49% APR at 30% LTV / 1 year; 8.75% APR at 50% LTV / 1 year; 10.50% APR at 70% LTV / 1 year. 0% origination on new loans. Liquidation at 90.91% LTV.",
+      "source": "https://saltlending.com/rates-and-fees/"
+    },
+    {
+      "date": "2026-11-13",
+      "lenderId": "figure",
+      "type": "baseline",
+      "summary": "Baseline: 8.91% interest (9.999% APR) at 50% LTV; 11.50% interest (12.62% APR) at up to 75% LTV. 1% origination included in APR. 12-month term. Liquidation at 90% LTV.",
+      "source": "https://www.figure.com/crypto-backed-loan/"
+    },
+    {
+      "date": "2026-11-13",
+      "lenderId": "arch",
+      "type": "baseline",
+      "summary": "Baseline: under $250K, 10.49% APR monthly (9.00% interest + 1.49% origination) or 10.99% APR at maturity. Size-tiered down to from 7.25% APR above $10M. Max 60% LTV. Liquidation at 80% LTV.",
+      "source": "https://archlending.com/learn/crypto-loan-fees/"
+    },
+    {
+      "date": "2026-11-13",
+      "lenderId": "strike",
+      "type": "baseline",
+      "summary": "Baseline: under $250K standard term loan, 10.50% APR monthly or 11.25% APR at maturity. 0% origination. Size-tiered down to 7.49% APR at $5M\u2013$10M monthly. Line of credit variable 11.25% APR. Liquidation at 85% LTV.",
+      "source": "https://strike.me/support/what-are-the-interest-rates-for-borrowing-against-bitcoin/"
+    },
+    {
+      "date": "2026-11-13",
+      "lenderId": "ledn",
+      "type": "baseline",
+      "summary": "Baseline: current product-page APR tiers \u2014 10.99% under $250K, 10.49% at $250K\u2013, 9.99% at $500K\u2013, 9.75% at $1M\u2013, 9.25% at $2M+. US/Canada 2% admin fee waived. Typical 50% LTV, 12 months. Liquidation at 80% LTV.",
+      "source": "https://www.ledn.io/bitcoin-backed-loans"
+    },
+    {
+      "date": "2026-11-13",
+      "lenderId": "lava",
+      "type": "baseline",
+      "summary": "Baseline: line-of-credit interest 8.50% under $250K, stepping down to 6.50% at $2M+, fixed for one year, compounded daily, plus a 2% annual capital charge on maximum outstanding. Up to 60% LTV.",
+      "source": "https://www.lava.xyz/faq/what-are-the-interest-rates-on-lava"
+    },
+    {
+      "date": "2026-11-13",
+      "lenderId": "coinbase",
+      "type": "baseline",
+      "summary": "Baseline: advertised variable rate from 5.1% via Morpho. Processing fee 2% on the first $250,000 and 1% above, added to principal. Liquidation at 86% LTV with a 4.38% penalty. US excluding New York. Live rate requires an in-app quote.",
+      "source": "https://www.coinbase.com/borrow"
+    },
+    {
+      "date": "2026-11-13",
+      "lenderId": "firefish",
+      "type": "baseline",
+      "summary": "Baseline: rates advertised from 5%, market-driven. Origination 1.5% per 12 months of tenor, from Bitcoin collateral (fee schedule effective 2 January 2026). Starting LTV about 50% of amount due. Liquidation at 95% LTV.",
+      "source": "https://firefish.io/borrow"
+    },
+    {
+      "date": "2026-11-13",
+      "lenderId": "unchained",
+      "type": "baseline",
+      "summary": "Baseline: published example 12.00% interest, 2.00% origination, 14.18% APR. 360-day term, 200% CTP. Entity minimum $150,000; individual minimum $500,000 in most eligible states.",
+      "source": "https://www.unchained.com/pricing?tab=loans-pricing"
+    },
+    {
+      "date": "2026-11-13",
+      "lenderId": "apx",
+      "type": "baseline",
+      "summary": "Baseline: 11.49% under $100,000, 10.99% from $100,000 to $1M, 9.99% above $1M. No origination or liquidation fees. US: businesses only, $25,000 USDC minimum. Partial liquidation at 90% LTV.",
+      "source": "https://apxlending.com/bitcoin-loans"
+    },
+    {
+      "date": "2026-11-13",
+      "lenderId": "debifi",
+      "type": "baseline",
+      "summary": "Baseline: no published rate card (lender-set). Origination 1.5% up to $300,000 (lower at larger sizes). Standard 90% LTV liquidation with a 5% fee. Standard minimum $20,000; US card loans from $500 with no origination fee.",
+      "source": "https://debifi.com/faq"
+    }
+  ]
+}
