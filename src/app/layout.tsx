@@ -17,6 +17,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
+  verification: { google: "9tORGYiEX2iqEdbe1s6BacBEZU9-t-XEKmHAOZlHkc0" },
   title: "BTC Loan Rates — True All-In Cost of a US Bitcoin-Backed Loan (2026)",
   description:
     "Compare the true all-in cost of a $10,000, 12-month Bitcoin-backed loan across US lenders: APR, origination, custody, and liquidation risk. Official sources linked, estimates labeled, no affiliate links.",
